@@ -118,7 +118,7 @@ signal = vhf_sim.generate_signal(
 - MSK modulation
 - 13 microsecond hop dwell
 - 51 channels, 3 MHz spacing
-- Simplified RS structure (educational)
+- Simplified RS structure
 
 ### VHF/UHF
 - FM deviation: ±5 kHz (narrowband), ±75 kHz (wideband)

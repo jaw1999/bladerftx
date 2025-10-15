@@ -1,6 +1,6 @@
 """
 VHF/UHF Communications Simulator
-Generates various VHF/UHF modulated signals for educational purposes
+Generates various VHF/UHF modulated signals
 Supports AM, FM, SSB, and digital modes
 """
 

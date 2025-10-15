@@ -1,6 +1,6 @@
 """
 Link-16 (JTIDS/MIDS) Signal Simulator
-Reference-quality Link-16 waveform for educational purposes
+Reference-quality Link-16 waveform 
 
 Accurate specifications:
 - CCSK (32-ary cyclic code shift keying) + MSK modulation
@@ -59,7 +59,7 @@ class Link16Simulator:
         """Initialize 32 CCSK code sequences"""
         # Generate 32 unique 32-chip sequences
         # Real Link-16 uses specific cyclic shifts of base sequence
-        # This is simplified for educational use
+        # This is simplified 
         self.CCSK_CODES = []
 
         # Base sequence (simplified - real CCSK uses specific patterns)

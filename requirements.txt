@@ -1,0 +1,12 @@
+# BladeRF Signal Simulator Requirements
+# Python dependencies for reference-quality RF signal generation
+
+# Core scientific computing
+numpy>=1.21.0
+scipy>=1.7.0
+
+# Optional: For signal analysis and visualization
+matplotlib>=3.4.0  # For plotting signals and spectra
+
+# NOTE: BladeRF Python bindings must be installed separately
+# See INSTALL_BLADERF.md for instructions

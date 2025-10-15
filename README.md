@@ -162,13 +162,3 @@ bladerftx/
 └── README.md                # This file
 ```
 
-## Verification
-
-```bash
-python verify_specs.py
-```
-
-Checks all signal parameters against published specifications.
-
-
-
